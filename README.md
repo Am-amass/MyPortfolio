@@ -53,6 +53,6 @@ Feel free to explore the website, view my projects, and reach out to me through 
 
 ### Contact
 **Theophilus Amankwah**
-- [Website](https://amasstechgh.com)
+- [Website](https://www.amasstechgh.com)
 - [LinkedIn](https://linkedin.com/in/theophilus-amankwah-kvng-amass)
 - [Twitter](https://twitter.com/kvng_amass)
